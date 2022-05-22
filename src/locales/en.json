@@ -1,0 +1,28 @@
+{
+    "notTranslated": "This content has not been translated.",
+    "characters": {
+        "norio": "Tsukudani Norio",
+        "inuyama": "Inuyama Tamaki",
+        "shirayuki": "Shirayuki Mishiro",
+        "enomiya": "Enomiya Milk",
+        "kumagaya": "Kumagaya Takuma",
+        "himesaki": "Himesaki Yuzuru",
+        "hoozuki": "Hoozuki Warabe",
+        "oma": "Oma Kirara",
+        "kurumizawa": "Kurumizawa Momo",
+        "mirutani": "Mirutani Nia",
+        "beppy": "Beppy",
+        "lovechan": "Love-chan",
+        "muse": "Muse",
+        "temari": "Temari Carta",
+        "nekozeno": "Nekozeno Shin",
+        "inari": "Inari Iroha",
+        "reglush": "Reglush Lionheart"
+    },
+    "cHeader": {
+        "sub": "Live Streams Schedule"
+    },
+    "ui": {
+        "outside": "This stream will take place outside of NoriPro channel"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "notTranslated": "この項目はまだ翻訳されていません。",
+    "characters": {
+        "norio": "佃煮のりお",
+        "inuyama": "犬山たまき",
+        "shirayuki": "白雪みしろ",
+        "enomiya": "愛宮みるく",
+        "kumagaya": "熊谷タクマ",
+        "himesaki": "姫咲ゆずる",
+        "hoozuki": "鬼灯わらべ",
+        "oma": "逢魔きらら",
+        "kurumizawa": "胡桃澤もも",
+        "mirutani": "看谷にぃあ",
+        "beppy": "べっぴー",
+        "lovechan": "らぶちゃん",
+        "muse": "ミューズ",
+        "temari": "手鞠カルタ",
+        "nekozeno": "猫瀬乃しん",
+        "inari": "稲荷いろは",
+        "reglush": "レグルシュ・ライオンハート"
+    },
+    "cHeader": {
+        "sub": "ライブ配信スケジュール"
+    },
+    "ui": {
+        "outside": "この放送はのりプロ外部のチャンネルで行われます。"
+    }
+}
