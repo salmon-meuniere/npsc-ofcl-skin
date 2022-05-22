@@ -4,15 +4,13 @@ import CCard from './CCard.vue';
 
 <template>
     <div>
-        <div class="p-schedule-item__inner">
-            <template v-for="min in Object.keys(getStreamArrayDevidedByMinutes)" :key="min">
-                <div class="p-schedule-item__time">
-                    <span class="text-time">{{getTimeString(getStreamArrayDevidedByMinutes[min][0].start_date)}}</span>
-                </div>
-                <div class="p-schedule-item__card" v-for="stream in getStreamArrayDevidedByMinutes[min]" :key="stream.id">
-                    <CCard :stream="stream" />
-                </div>
-            </template>
+        <div v-for="min in Object.keys(getStreamArrayDevidedByMinutes)" :key="min" class="p-schedule-item__inner">
+            <div class="p-schedule-item__time">
+                <span class="text-time">{{getTimeString(getStreamArrayDevidedByMinutes[min][0].start_date)}}</span>
+            </div>
+            <div class="p-schedule-item__card" v-for="stream in getStreamArrayDevidedByMinutes[min]" :key="stream.id">
+                <CCard :stream="stream" />
+            </div>
         </div>
     </div>
 </template>
