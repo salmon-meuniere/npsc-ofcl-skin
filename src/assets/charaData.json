@@ -167,21 +167,6 @@
         "gen": 0,
         "slug": "lovechan"
     },
-    "mirutani": {
-        "2key": "mi",
-        "avatar-prefix": "jpg",
-        "jp": "看谷にぃあ",
-        "en": "Mirutani Nia",
-        "zh-cn": "看谷Nia",
-        "emoji1": "🌙💗",
-        "emoji2": "",
-        "theme-color": "#c2caf3",
-        "is-color-deep": false,
-        "yt-url": "https:\/\/www.youtube.com\/channel\/UCIRzELGzTVUOARi3Gwf1-yg",
-        "bluid": false,
-        "gen": "m",
-        "slug": "mirutani"
-    },
     "muse": {
         "2key": "mu",
         "avatar-prefix": "jpg",
